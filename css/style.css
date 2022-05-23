@@ -121,3 +121,7 @@ footer .column i {
 .main {
     background: rgba(233, 223, 191, 0.8);
 }
+a
+{
+    text-decoration: none;
+}
